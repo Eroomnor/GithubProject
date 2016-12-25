@@ -14,7 +14,7 @@ import java.util.Map;
 public class DummyContent {
 
     /**
-     * An array of sample (dummy) items.
+     * Ron Made this Change An array of sample (dummy) items.
      */
     public static final List<DummyItem> ITEMS = new ArrayList<DummyItem>();
 
